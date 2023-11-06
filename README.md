@@ -11,22 +11,20 @@ Project uses [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) and [JSO
 ## Requirements
 
 <ul>
-    <sub>
-        <li>PHP >= 8.1</li>
-        <li>Ctype PHP Extension</li>
-        <li>cURL PHP Extension</li>
-        <li>DOM PHP Extension</li>
-        <li>Fileinfo PHP Extension</li>
-        <li>Filter PHP Extension</li>
-        <li>Hash PHP Extension</li>
-        <li>Mbstring PHP Extension</li>
-        <li>OpenSSL PHP Extension</li>
-        <li>PCRE PHP Extension</li>
-        <li>PDO PHP Extension</li>
-        <li>Session PHP Extension</li>
-        <li>Tokenizer PHP Extension</li>
-        <li>XML PHP Extension</li>
-    </sub>
+    <li>PHP >= 8.1</li>
+    <li>Ctype PHP Extension</li>
+    <li>cURL PHP Extension</li>
+    <li>DOM PHP Extension</li>
+    <li>Fileinfo PHP Extension</li>
+    <li>Filter PHP Extension</li>
+    <li>Hash PHP Extension</li>
+    <li>Mbstring PHP Extension</li>
+    <li>OpenSSL PHP Extension</li>
+    <li>PCRE PHP Extension</li>
+    <li>PDO PHP Extension</li>
+    <li>Session PHP Extension</li>
+    <li>Tokenizer PHP Extension</li>
+    <li>XML PHP Extension</li>
 </ul>
 
 ## Installation Guide

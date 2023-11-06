@@ -11,6 +11,9 @@ Project uses [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) and [JSO
 ## Requirements
 
 <ul>
+    <li>Node.js</li>
+    <li>npm</li>
+    <li>Composer</li>
     <li>PHP >= 8.1</li>
     <li>Ctype PHP Extension</li>
     <li>cURL PHP Extension</li>

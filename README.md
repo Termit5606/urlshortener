@@ -11,7 +11,7 @@ Project uses [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) and [JSO
 ## Requirements
 
 <ul>
-    <sup>
+    <sub>
         <li>PHP >= 8.1</li>
         <li>Ctype PHP Extension</li>
         <li>cURL PHP Extension</li>
@@ -26,7 +26,7 @@ Project uses [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) and [JSO
         <li>Session PHP Extension</li>
         <li>Tokenizer PHP Extension</li>
         <li>XML PHP Extension</li>
-    </sup>
+    </sub>
 </ul>
 
 ## Installation Guide
